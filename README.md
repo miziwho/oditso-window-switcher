@@ -1,3 +1,5 @@
+ Languages: [한국어](README.ko.md)
+
 Oditso – Window Switcher
 
 A faster, more powerful alternative to Alt+Tab
@@ -196,5 +198,6 @@ GitHub: https://github.com/miziwho/oditso-window-switcher
  v1.4: Save/load profiles
 
  v1.5: Auto-update support
+
 
 <p align="center"> Made with ❤️ for productivity <br>© 2025 Oditso — All Rights Reserved </p>
