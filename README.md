@@ -1,4 +1,4 @@
- Languages: [한국어](README.ko.md)
+🌐 Languages: [한국어](README.ko.md)
 
 Oditso – Window Switcher
 
@@ -201,3 +201,4 @@ GitHub: https://github.com/miziwho/oditso-window-switcher
 
 
 <p align="center"> Made with ❤️ for productivity <br>© 2025 Oditso — All Rights Reserved </p>
+
