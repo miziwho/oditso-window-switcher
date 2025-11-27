@@ -1,3 +1,5 @@
+🌐 언어 선택: [English](README.md)
+
 창전환 (Oditso - Window Switcher)
 
 Alt+Tab보다 빠르고 안정적인 Windows 창 관리 도구
@@ -198,3 +200,4 @@ GitHub: https://github.com/miziwho/oditso-window-switcher
  v1.5: 자동 업데이트 지원
 
 <p align="center"> Made with ❤️ for productivity<br> © 2025 Oditso — All Rights Reserved </p>
+
