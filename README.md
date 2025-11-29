@@ -3,7 +3,7 @@
 # 🚀 Oditso – Window Switcher
 
 [![OS Support](https://img.shields.io/badge/OS-Windows-blue)](링크없음) 
-[![License](https://img.shields.io/github/license/YourUsername/Oditso)](LICENSE)
+[![license](https://img.shields.io/github/license/miziwho/oditso-window-switcher)](LICENSE.md)
 
 **A faster, more powerful alternative to Alt+Tab.**
 
@@ -203,5 +203,6 @@ GitHub: https://github.com/miziwho/oditso-window-switcher
 
 
 <p align="center"> Made with ❤️ for productivity <br>© 2025 Oditso — All Rights Reserved </p>
+
 
 
