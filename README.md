@@ -5,7 +5,7 @@
 [![OS Support](https://img.shields.io/badge/OS-Windows-blue)](링크없음) 
 [![License: CC BY-NC-ND 4.0](https://img.shields.io/badge/License-CC_BY--NC--ND_4.0-lightgrey.svg)](LICENSE.md)
 
-**A faster, more powerful alternative to Alt+Tab.**
+## A faster, more powerful alternative to Alt+Tab.
 
 If you juggle multiple windows and lose time switching between them, Oditso (Window Switcher) gives you a clean, visual, and highly efficient way to **jump between windows instantly on Windows OS.**
 
@@ -203,6 +203,7 @@ GitHub: https://github.com/miziwho/oditso-window-switcher
 
 
 <p align="center"> Made with ❤️ for productivity <br>© 2025 Oditso — All Rights Reserved </p>
+
 
 
 
