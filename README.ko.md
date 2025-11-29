@@ -1,12 +1,14 @@
 🌐 언어 선택: [English](README.md)
 
-창전환 (Oditso - Window Switcher)
+# 🚀 Oditso – Window Switcher (창전환)
 
-Alt+Tab보다 빠르고 안정적인 Windows 창 관리 도구
+[![OS](https://img.shields.io/badge/OS-Windows-blue)](링크없음)
+[![License: CC BY-NC-ND 4.0](https://img.shields.io/badge/License-CC_BY--NC--ND_4.0-lightgrey.svg)](LICENSE.md)
+
+## **Windows 사용자를 위한 Alt+Tab의 더 빠르고 강력한 대안.**
 
 여러 창을 오가느라 작업 흐름이 끊기고 불편했던 경험이 있다면,
-창전환(Oditso)은 당신의 생산성을 극대화해주는 새로운 방식의 창 전환 솔루션입니다.
-
+**창전환(Oditso)**은 당신의 생산성을 극대화해주는 새로운 방식의 창 전환 솔루션입니다. **Windows OS 환경에서** 깨끗하고 시각적이며 매우 효율적인 방법으로 즉시 창을 전환할 수 있도록 도와줍니다.
 
 
 
@@ -200,4 +202,5 @@ GitHub: https://github.com/miziwho/oditso-window-switcher
  v1.5: 자동 업데이트 지원
 
 <p align="center"> Made with ❤️ for productivity<br> © 2025 Oditso — All Rights Reserved </p>
+
 
