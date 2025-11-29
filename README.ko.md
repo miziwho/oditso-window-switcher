@@ -183,8 +183,6 @@ F5 새로고침 지원
 
 공식 웹사이트: https://www.oditso.com
 
-다운로드: https://www.oditso.com/download
-
 가이드: https://www.oditso.com/guide
 
 GitHub: https://github.com/miziwho/oditso-window-switcher
@@ -202,5 +200,6 @@ GitHub: https://github.com/miziwho/oditso-window-switcher
  v1.5: 자동 업데이트 지원
 
 <p align="center"> Made with ❤️ for productivity<br> © 2025 Oditso — All Rights Reserved </p>
+
 
 
