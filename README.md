@@ -183,8 +183,6 @@ Attribution required
 
 Website: https://www.oditso.com
 
-Download: https://www.oditso.com/download
-
 Guide: https://www.oditso.com/guide
 
 GitHub: https://github.com/miziwho/oditso-window-switcher
@@ -203,6 +201,7 @@ GitHub: https://github.com/miziwho/oditso-window-switcher
 
 
 <p align="center"> Made with ❤️ for productivity <br>© 2025 Oditso — All Rights Reserved </p>
+
 
 
 
